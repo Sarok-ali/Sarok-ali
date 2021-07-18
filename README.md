@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sarok
+- 👀 I’m interested in Mobile App Development
+- 🌱 I’m currently learning Flutter and Dart
+- 💞️ I’m Study Software Engineering
+- 📫 How to reach me => FB=> Sarok Ali
