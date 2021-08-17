@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sarok
-- 👀 I’m interested in Mobile App Development
-- 🌱 I’m currently learning Flutter and Dart
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m Study Software Engineering
 - 📫 How to reach me => FB=> Sarok Ali
